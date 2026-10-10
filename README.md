@@ -1,2 +1,1 @@
-# ftp.euroscipy.org
-ftp.euroscipy.org
+#  ccztt.de5.net
